@@ -1,4 +1,4 @@
-
+# The Number Guessing Game is an interactive Python-based program where users attempt to guess a randomly selected number between 1 and 100. It’s a classic beginner-friendly project designed to reinforce core programming concepts while keeping things fun and engaging.
 
 # config.py
 MAX_NUMBER = 100
