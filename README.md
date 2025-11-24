@@ -147,9 +147,9 @@ git clone https://github.com/Aditya8369/project-alpha.git
 
 ```
 Navigate to the project directory:
-
+```bash
 cd project-alpha
-
+```
 
 Install dependencies (if applicable):
 ```bash
