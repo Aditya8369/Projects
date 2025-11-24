@@ -141,28 +141,29 @@ To get a local copy of any project listed here, follow these steps:
 
 Clone the repository:
 
-git clone [https://github.com/yourusername/project-alpha.git](https://github.com/yourusername/project-alpha.git)
+```bash
+# git clone [https://github.com/Aditya8369/project-alpha.git](https://github.com/yourusername/project-alpha.git)
 # Replace 'project-alpha' with the name of the repository you want to clone
 
-
+```
 Navigate to the project directory:
 
 cd project-alpha
 
 
 Install dependencies (if applicable):
-
+```bash
 npm install
 # or
 pip install -r requirements.txt
-
+```
 
 Run the application (check project-specific README for details):
-
+```bash
 npm start
 # or
 python app.py
-
+```
 
 # 🤝 How to Contribute
 
