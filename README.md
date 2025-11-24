@@ -1,8 +1,8 @@
-🚀 My GitHub Project Portfolio
+# 🚀 My GitHub Project Portfolio
 
 Welcome to my central repository for all my personal and open-source projects! This portfolio serves as a showcase of my skills in various technologies and domains. Feel free to explore, use the code, and reach out if you have any questions or collaboration ideas.
 
-📚 Table of Contents
+# 📚 Table of Contents
 
 About Me
 
@@ -20,7 +20,7 @@ How to Contribute
 
 License
 
-🙋‍♂️ About Me
+# 🙋‍♂️ About Me
 
 I am a passionate software developer specializing in full-stack web development and data science. I love building tools that are efficient, scalable, and delightful to use. My core focus is on clean code, test-driven development, and continuous learning.
 
@@ -29,7 +29,7 @@ I am a passionate software developer specializing in full-stack web development 
 
 📧 Contact: mahajan2005aditya@gmail.com
 
-✨ Featured Projects
+# ✨ Featured Projects
 
 Here are some highlights from my work. Each section includes a brief overview, the technologies used, and a direct link to the repository.
 
@@ -43,7 +43,7 @@ Description
 
 Status
 
-🟢 Active Development
+# 🟢 Active Development
 
 Repo Link
 
@@ -79,7 +79,7 @@ Description
 
 Status
 
-🟡 Maintenance
+# 🟡 Maintenance
 
 Repo Link
 
@@ -103,13 +103,13 @@ Libraries: Pandas, NumPy, Scikit-learn, Jupyter Notebooks
 
 Visualization: Matplotlib, Seaborn
 
-🛠 Skills & Technologies
+# 🛠 Skills & Technologies
 
 This is a comprehensive list of the technologies I am proficient in, represented across my projects:
 
 Category
 
-Technologies
+# Technologies
 
 Frontend
 
@@ -135,7 +135,7 @@ Languages
 
 Python, JavaScript, TypeScript, C++
 
-⚙️ Get Started (Cloning)
+# ⚙️ Get Started (Cloning)
 
 To get a local copy of any project listed here, follow these steps:
 
@@ -164,7 +164,7 @@ npm start
 python app.py
 
 
-🤝 How to Contribute
+# 🤝 How to Contribute
 
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
 
