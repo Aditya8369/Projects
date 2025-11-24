@@ -142,7 +142,7 @@ To get a local copy of any project listed here, follow these steps:
 Clone the repository:
 
 ```bash
-# git clone [https://github.com/Aditya8369/project-alpha.git](https://github.com/yourusername/project-alpha.git)
+git clone https://github.com/Aditya8369/project-alpha.git
 # Replace 'project-alpha' with the name of the repository you want to clone
 
 ```
